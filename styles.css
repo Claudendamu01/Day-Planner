@@ -1,0 +1,69 @@
+
+
+body{
+   background-color: honeydew;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif  ;
+}
+.title{
+    text-align: center;
+    border-bottom: 2.5px solid #b1b0b0;
+    margin-bottom: 40px;
+    padding: 30px;
+}
+h1{
+    font-size: 50px;
+    font-weight: bolder;
+    color: black;
+}
+.colum{
+    height: 40px;
+    padding: 10px;
+   text-align: center;
+}
+
+.left .right{
+    width: 25%;
+    text-align: center;
+}
+.middle{
+  width: 50%;
+}
+.btn{
+    margin-right: 210px;
+    padding: 0px;
+    height: 30px;
+    width: 50px;
+    border-style: solid gray;  
+
+}
+.btn1{
+    margin-left: 500px;
+    padding: 0px;
+    height: 30px;
+    width: 100px;
+    border-style: solid gray;
+ }
+.row:after{
+   content: ""; 
+   display: inline;
+   clear: both;
+}
+#div-hour{
+    margin-left: 200px;
+}
+
+#save{
+text-align: center;
+padding: 5px 10px 10px 0px;
+}
+.toDo{
+    font-style: italic;
+    text-decoration: solid;
+}
+.div-btn{
+    text-align: center;
+    height: 20px;
+    width: 50px;
+    padding: 10px;
+}
+
